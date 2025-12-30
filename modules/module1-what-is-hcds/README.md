@@ -43,4 +43,10 @@ We’re collecting light beta feedback focused on fit and usability.
 3) Workload: Is the scope right for one session / one week?
 
 ## How to cite
-(Coming after the first Zenodo release.) This section will contain the Zenodo concept DOI for the toolkit release.
+
+If you use these materials, please cite the toolkit:
+
+Guha, S., Chui, V., Silver, M., & Irfan, M. (2025). uofthcdslab/hcds-pedagogy-toolkit: v0.1.0 – Module 1 beta (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18092860
+
+
+
