@@ -32,7 +32,7 @@ We’re collecting light beta feedback focused on fit and usability.
 - Answer the three questions below
 
 2) **Google Form (no GitHub account needed):**
-- [<PASTE YOUR GOOGLE FORM LINK HERE>](https://forms.gle/Z3D1viuHZ3x9MHWC8)
+- https://forms.gle/Z3D1viuHZ3x9MHWC8
 
 3) **Email:**
 - hcds.uoft@gmail.com
