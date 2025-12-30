@@ -1,5 +1,5 @@
-##DOI
-DOI 10.5281/zenodo.18092859
+## DOI
+10.5281/zenodo.18092859
 
 ## Modules
 - [Module 1: What is Human-Centered Data Science?](modules/module1-what-is-hcds/)
