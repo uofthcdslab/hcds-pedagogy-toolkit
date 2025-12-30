@@ -1,3 +1,6 @@
+## Modules
+- [Module 1: What is Human-Centered Data Science?](modules/module1-what-is-hcds/)
+
 ## Feedback (choose the easiest option)
 
 We’re collecting light beta feedback focused on fit and usability. Any of the options below is perfect:
