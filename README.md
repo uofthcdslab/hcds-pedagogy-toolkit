@@ -1,5 +1,5 @@
-## DOI
-[10.5281/zenodo.18092859](https://doi.org/10.5281/zenodo.18092859)
+## How to cite
+Guha, S., Chui, V., Silver, M., & Irfan, M. (2025). *uofthcdslab/hcds-pedagogy-toolkit: Module 1 beta* (All versions). Zenodo. https://doi.org/10.5281/zenodo.18092859
 
 ## Modules
 - [Module 1: What is Human-Centered Data Science?](modules/module1-what-is-hcds/)
