@@ -44,9 +44,10 @@ We’re collecting light beta feedback focused on fit and usability.
 
 ## How to cite
 
-If you use these materials, please cite the toolkit:
+If you use any part of Module 1, please cite:
 
-Guha, S., Chui, V., Silver, M., & Irfan, M. (2025). uofthcdslab/hcds-pedagogy-toolkit: v0.1.0 – Module 1 beta (v0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18092860
+Guha, S., Chui, V., Silver, M., & Irfan, M. (2025). *uofthcdslab/hcds-pedagogy-toolkit: Module 1 beta* (All versions). Zenodo. https://doi.org/10.5281/zenodo.18092859
+
 
 
 
