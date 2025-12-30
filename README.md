@@ -11,7 +11,7 @@ We’re collecting light beta feedback focused on fit and usability. Any of the 
    - Questions are in the form
 
 3) **Email:**
-   - shion.guha@utoronto.ca
+   - hcds.uoft@gmail.com
    - Short bullet point responses to the following 3 questions s'il vous plaît
 
 
