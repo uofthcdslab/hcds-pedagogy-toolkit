@@ -18,10 +18,10 @@ A plug-and-play introduction to Human-Centered Data Science (HCDS), based on Cha
 - Notebook-only: short lab inside a broader ML / AI course
 
 ## What’s included (files)
-- `Module 1_ What is Human Centered Data Science: Slide Deck.pptx`
-- `Module 1_ What is Human Centered Data Science: Slide Notes.docx`
-- `Module 1_ What is Human Centered Data Science: Instructor Guide.docx`
-- `Module 1_ What is Human Centered Data Science: Codebook.ipynb`
+- `Module 1: What is Human Centered Data Science: Slide Deck.pptx`
+- `Module 1: What is Human Centered Data Science: Slide Notes.docx`
+- `Module 1: What is Human Centered Data Science: Instructor Guide.docx`
+- `Module 1: What is Human Centered Data Science: Codebook.ipynb`
 
 ## Feedback (choose the easiest option)
 We’re collecting light beta feedback focused on fit and usability.
