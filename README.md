@@ -7,13 +7,15 @@ We’re collecting light beta feedback focused on fit and usability. Any of the 
    - Answer the three questions below.
 
 2) **Google Form (no GitHub account needed):**
-   - [<FORM LINK HERE>](https://forms.gle/t8tikaFF8Q4Gk92p7)
+   - https://forms.gle/t8tikaFF8Q4Gk92p7
+   - Questions are in the form
 
 3) **Email:**
-   - <PROJECT EMAIL HERE>shion.guha@utoronto.ca
-   - Short bullets are great.
+   - shion.guha@utoronto.ca
+   - Short bullet point responses to the following 3 questions s'il vous plaît
 
-**Three questions (5 minutes):**
+
+**Three questions (~5 minutes):**
 1) Fit: Where (if anywhere) would this module fit in a course you teach?
 2) Clarity: What, if anything, was confusing or missing for you to run it?
 3) Workload: Does the scope feel right for one session / one week?
