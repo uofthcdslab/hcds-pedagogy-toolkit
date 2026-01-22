@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this toolkit in your classroom or research, please cite it as follows."
+authors:
+  - family-names: "Guha"
+    given-names: "Shion"
+    orcid: "https://orcid.org/0000-0003-0073-2378"
+    affiliation: "University of Toronto"
+title: "HCDS Pedagogy Toolkit: Infrastructure for Rigorous Classroom Experimentation"
+version: 0.1.0
+date-released: 2026-01-22
+url: "https://github.com/uofthcdslab/hcds-pedagogy-toolkit"
+identifiers:
+  - description: "The archived snapshot of this software"
+    type: doi
+    value: "10.5281/zenodo.18093068"
+keywords:
+  - "human-centered data science"
+  - "pedagogy"
+  - "computer science education"
+  - "experimentation"
+  - "public interest technology"
+license: MIT
