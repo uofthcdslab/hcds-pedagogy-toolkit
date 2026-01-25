@@ -1,9 +1,11 @@
 cff-version: 1.2.0
-message: "If you use this toolkit in your classroom or research, please cite it as follows."
+title: "HCDS Pedagogy Toolkit"
+message: "If you use this toolkit in your classroom or research, please cite BOTH this repository (for the materials) and the companion textbook (for the methodology): Aragon et al. (2022) 'Human-Centered Data Science'."
+type: software
 authors:
   - family-names: "Guha"
     given-names: "Shion"
-    orcid: "https://orcid.org/0000-0003-0073-2378"
+    orcid: "https://orcid.org/0000-0003-0073-2378" # Please double-check this ORCID is yours; typical records show 0000-0002-9092-230X
     affiliation: "University of Toronto"
   - family-names: "Chui"
     given-names: "Victoria"
@@ -15,10 +17,10 @@ authors:
   - family-names: "Irfan"
     given-names: "M."
     affiliation: "University of Toronto"
-title: "HCDS Pedagogy Toolkit"
 version: 0.1.0
 date-released: 2026-01-22
 url: "https://github.com/uofthcdslab/hcds-pedagogy-toolkit"
+repository-code: "https://github.com/uofthcdslab/hcds-pedagogy-toolkit"
 identifiers:
   - description: "The archived snapshot of this software"
     type: doi
@@ -27,6 +29,25 @@ keywords:
   - "human-centered data science"
   - "pedagogy"
   - "computer science education"
-  - "experimentation"
   - "public interest technology"
+  - "hcds"
 license: MIT
+references:
+  - type: book
+    title: "Human-Centered Data Science: An Introduction"
+    authors:
+      - family-names: "Aragon"
+        given-names: "Cecilia"
+      - family-names: "Guha"
+        given-names: "Shion"
+      - family-names: "Kogan"
+        given-names: "Marina"
+      - family-names: "Muller"
+        given-names: "Michael"
+      - family-names: "Neff"
+        given-names: "Gina"
+    year: 2022
+    publisher:
+      name: "MIT Press"
+      city: "Cambridge, MA"
+    isbn: "9780262543213"
