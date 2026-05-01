@@ -3,7 +3,7 @@
 If you use this toolkit in your classroom or research, please cite **both** the toolkit (for the materials) and the textbook (for the methodology).
 
 **1. The Toolkit (Code & Slides):**
-> Guha, S., Chui, V., Silver, M., & Irfan, M. (2026). *HCDS Pedagogy Toolkit*. GitHub. https://github.com/uofthcdslab/hcds-pedagogy-toolkit
+> Guha, S., Chui, V., Silver, M., & Irfan, M. (2026). *HCDS Pedagogy Toolkit*. GitHub. https://github.com/uofthcdslab/hcds-pedagogy-toolkit. https://doi.org/10.5281/zenodo.18092859
 
 **2. The Textbook (Methodology):**
 > Aragon, C., Guha, S., Kogan, M., Muller, M., & Neff, G. (2022). *Human-Centered Data Science: An Introduction*. MIT Press. https://mitpress.mit.edu/9780262543213/
