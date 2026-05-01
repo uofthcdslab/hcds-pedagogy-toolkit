@@ -11,6 +11,7 @@ If you use this toolkit in your classroom or research, please cite **both** the 
 ## Modules
 - [Module 1: What is Human-Centered Data Science?](modules/module1-what-is-hcds/)
 - [Module 2: Foundations + Critical Lens on the Data Science Lifecycle](./modules/module2-foundations-critical-lens)
+- [Module 3: Data Practices + Responsible Modeling](./modules/module3-data-practices-responsible-modeling)
 
 ## Feedback (choose the easiest option)
 
