@@ -13,9 +13,9 @@ By the end of this module, students will be able to:
 
 ## Materials
 
-- `module4-problem-framing-scoping-slides.pptx`
-- `module4-problem-framing-scoping-instructor-guide.docx`
-- `module4-codebook.ipynb`
+- `Module 4_Problem Framing & Scoping.pptx`
+- `Module 4_ Problem Framing and Scoping_InstructorGuide.docx`
+- `Module_4_Code_Book.ipynb`
 - `compas-scores-two-years.csv`
 
 ## Case Studies
